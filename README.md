@@ -5,7 +5,7 @@ Hi reader!✌️
 We are creating this blog to share our experience of our Third project as part of construct week at Masai School. The project assigned to our group was a clone of Nykaa. Buy cosmetics & beauty products online from Nykaa, the online shopping beauty store. Browse makeup, health products & more from top beauty brands.
 
 
-Our team consists of 4 people including Me, Rishikesh, Gagan, Akhil TJ.
+Our team consists of 4 people including Me(Govind Lakhotiya), Rishikesh, Gagan, Akhil TJ.
 
 # **Our Expectations**
 We are expecting to create a pixel-perfect cloned site of the Nykaa website, with all its pages, giving proper HTML, CSS properties,Javascript,React,using Redux with respect to the official Nykaa website, Buy cosmetics & beauty products online from Nykaa, the online shopping beauty store. Browse makeup, health products & more from top beauty brands. 😊.
