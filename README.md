@@ -17,6 +17,8 @@ We are expecting to create a pixel-perfect cloned site of the Nykaa website, wit
 - React
 - Redux
 
+#  **Blog Link-------https://medium.com/@rushikeshparte10/nikyaa-react-clone-construct-week-unit-4-a27ddfef525
+
 
 # ** responsibilities**
 Our team consists of 5 people including me(Govind Lakhotiya), Rishikesh, Gagan, Akhil. We had to distribute the work depending upon the knowledge and skills of each person, so we had a meeting and we shared our strengths and shortcomings.
