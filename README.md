@@ -24,9 +24,7 @@ Our team consists of 5 people including me(Govind Lakhotiya), Rishikesh, Gagan, 
 ** Snippet
 
 **Nykaa Signup 
-  (https://github.com/Govindlakhotiya/Nykaa/blob/main/Nykaa%20Signup1.PNG?raw=true)
-  
-
+  ![image](https://github.com/Govindlakhotiya/Nykaa/blob/main/Nykaa%20Signup1.PNG?raw=true)
 
 
 
