@@ -38,7 +38,20 @@ Our team consists of 5 people including me(Govind Lakhotiya), Rishikesh, Gagan, 
  **Addcart option
   
    ![image](https://github.com/Govindlakhotiya/Nykaa/blob/main/Screenshot%20(411).png?raw=true)
-
+   
+ **Address page
+  
+  ![image](https://github.com/Govindlakhotiya/Nykaa/blob/main/Nykaa%20Adress%20page%205.PNG?raw=true)
+  
+  **Payment page
+  
+   ![image](https://github.com/Govindlakhotiya/Nykaa/blob/main/Payment%20page%206.PNG?raw=true)
+   
+   **Order successfully
+   
+   ![image](https://github.com/Govindlakhotiya/Nykaa/blob/main/Order%20successfully%207.png?raw=true)
+   
+   
 
 
 ## filter page and its functionality and responsive design.
