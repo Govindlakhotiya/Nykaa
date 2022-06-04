@@ -22,6 +22,7 @@ We are expecting to create a pixel-perfect cloned site of the Nykaa website, wit
 Our team consists of 5 people including me(Govind Lakhotiya), Rishikesh, Gagan, Akhil. We had to distribute the work depending upon the knowledge and skills of each person, so we had a meeting and we shared our strengths and shortcomings.
 
 ** Snippet
+
 **Nykaa Signup 
 
 ![image](https://github.com/Govindlakhotiya/Nykaa/blob/main/Nykaa%20Signup1.PNG?raw=true)
